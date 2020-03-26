@@ -1,0 +1,4 @@
+Criar um "fator de random"
+Randomizar gravidade individual de bolha
+Criar bolha "caveirinha"
+Criar bolhas de velocidades: "+Relógio" e "-Relógio"
