@@ -1,6 +1,6 @@
 # Bubbles
 
-Este projeto contém ideias de @lurkasf e de @mourakassios
+Este projeto contém ideias e material criativo de @lurkasf e de @mourakassios
 
 https://github.com/lurkasf
 
